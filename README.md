@@ -1,6 +1,6 @@
 # myglow
 
-A new Flutter project.
+WhatsApp Clone.
 
 ## Getting Started
 
