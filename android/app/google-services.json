@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "331779848326",
+    "project_id": "glowchatwp",
+    "storage_bucket": "glowchatwp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331779848326:android:1bbf839343d5f03d683907",
+        "android_client_info": {
+          "package_name": "com.valizadarustam.myglow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331779848326-nfjm8sfug5h0dvrruug14d50mtefqsnq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.valizadarustam.myglow",
+            "certificate_hash": "73374d88d7c4931a1b7c5b59951bbc677a9b6852"
+          }
+        },
+        {
+          "client_id": "331779848326-2rtekg7nkgmv24gutpnc2hsgv3ug6hps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqKZhuP7c-xi5LhcBgr9NDz9dKN6na08I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331779848326-2rtekg7nkgmv24gutpnc2hsgv3ug6hps.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "331779848326-t3jtdrli50hi3pmqhemmbojlvalu80k9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.valizadarustam.myglow"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
